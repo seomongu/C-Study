@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "d41Zdb//nG+osbWEFGMaN3tgFvyKPM//H+qVXrUBQMZ6XbHcQmzBeq+wWRkVJBCkApOjQPtIBPNOss06Z84S/A==",
+  "dgSpecHash": "Sw7qn84VLMU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\C-Study\\코드 흐름 제어\\코드 흐름 제어.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\alsrlqo\\Day04\\C-Study\\코드 흐름 제어\\코드 흐름 제어.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }

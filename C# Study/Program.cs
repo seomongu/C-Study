@@ -114,7 +114,7 @@ namespace C__Study
             Console.WriteLine("가로의 크기를 입력해주세요.");
             string inputD= Console.ReadLine();
             int inputDNumber = int.Parse(inputD);
-            Console.WriteLine("세로의 크키를 입력해주세요.");
+            Console.WriteLine("세로의 크기를 입력해주세요.");
             string inputC = Console.ReadLine();
             int inputCNumber = int.Parse(inputC);
 
